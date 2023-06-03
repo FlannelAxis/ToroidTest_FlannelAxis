@@ -1,1 +1,2 @@
-return new Toroid(10, 20, 20, 16).toCSG()
+return new Toroid(20, 40, 30, 30).toCSG()
+//A toroid is defined by (
